@@ -1,0 +1,11 @@
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\sharifi\ASP.NET\tir\calculator\calculator\calculator\obj\Debug\calculator.Form1.resources
